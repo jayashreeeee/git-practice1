@@ -1,2 +1,2 @@
 hello git practice
-second line added
+second line added in the file
